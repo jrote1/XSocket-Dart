@@ -1,0 +1,9 @@
+name: xsocket
+version: 0.0.1
+author: jrote1
+description: A client for .NET XSocket
+homepage: https://github.com/jrote1/XSocket-Dart
+dependencies:
+  exportable: any
+  json_object: any
+  uuid: any
